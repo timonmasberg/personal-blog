@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Timon's Tech Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Timon Masberg`,
+      summary: `who lives and studies in Hamburg building software for a better world.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Articles about software engineering, cybersecurity and other tech stuff.`,
+    siteUrl: `https://blog.timonmasberg.de/`,
   },
   plugins: [
     `gatsby-plugin-image`,
