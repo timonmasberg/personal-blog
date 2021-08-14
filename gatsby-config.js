@@ -5,6 +5,11 @@ module.exports = {
       name: `Timon Masberg`,
       summary: `who lives and studies in Hamburg building software for a better world.`,
     },
+    social: {
+      linkedin: `https://www.linkedin.com/in/timon-masberg/`,
+      website: `https://www.timonmasberg.com`,
+      email: `contact@timonmasberg.com`
+    },
     description: `Articles about software engineering, cybersecurity and other tech stuff.`,
     siteUrl: `https://blog.timonmasberg.de/`,
   },
