@@ -53,12 +53,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
-    // {
-    //   resolve: `gatsby-plugin-google-analytics`,
-    //   options: {
-    //     trackingId: `ADD YOUR TRACKING ID HERE`,
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: `G-XXK089NYRQ`,
+      },
+    },
     {
       resolve: `gatsby-plugin-feed`,
       options: {
@@ -115,7 +115,7 @@ module.exports = {
       resolve: `gatsby-plugin-manifest`,
       options: {
         name: `Timon Masberg's Tech Blog`,
-        short_name: `Timons Blog`,
+        short_name: `Timon's Blog`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
