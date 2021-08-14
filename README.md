@@ -1,5 +1,5 @@
 <h1 align="center">
-  My private tech blog
+  My personal tech blog
 </h1>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/b09ff07a-ddbd-4c98-94d1-08834c3427b7/deploy-status)](https://app.netlify.com/sites/timon-masberg-blog/deploys)
